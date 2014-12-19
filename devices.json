@@ -1,0 +1,1 @@
+[{"name":"pc","type":"wake_on_lan","category":"switch","commands":{"on":"/api/wol/00-1d-92-6b-a8-1c"}},{"name":"pc","type":"wake on lan","category":"switch","commands":{}},{"name":"pc","type":"wake on lan","category":"switch","commands":{}}]
