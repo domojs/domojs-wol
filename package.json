@@ -1,0 +1,12 @@
+{
+	"name":"domojs-wakeonlan",
+	"version":"0.1",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/npenin/domojs-wol.git"
+	},
+	"dependencies":
+	{
+		"wake_on_lan":"latest"
+	}
+}
