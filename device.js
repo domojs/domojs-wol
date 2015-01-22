@@ -16,7 +16,9 @@ deviceTypes['wake on lan']={
         var ptType={
             commands:
             {
-               'on':'/api/wol/'+body.mac,
+               'on':function(callback){
+                   $('./modules/wol/controllers/api/home.js').get(body.mac, callback);
+               }
             }
         };
         
